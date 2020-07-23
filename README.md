@@ -12,7 +12,7 @@
  
 <p align="center">
 
-<img src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="20" height="20"/>
+<img src="https://img.icons8.com/color/48/000000/python.png alt=react width="20" height="20"/">
 
 <img src=https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt=amazonwebservices width="20" height="20"/>
 
@@ -41,8 +41,7 @@
 <img src=https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="20" height="20"/>
 
 <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/>
-
-<img src=https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg alt=nginx width="20" height="20"/></p>
+</p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/webster-avosa-6286a315b/"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;

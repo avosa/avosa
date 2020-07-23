@@ -12,8 +12,6 @@
  
 <p align="center">
 
-<img src="https://img.icons8.com/color/48/000000/python.png alt=react width="20" height="20"/">
-
 <img src=https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt=amazonwebservices width="20" height="20"/>
 
 <img src=https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg alt=android width="20" height="20"/>

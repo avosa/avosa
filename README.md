@@ -47,8 +47,8 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/webster-avosa-6286a315b/"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
-<a href="https://twitter.com/Websteravosa/"><img height="26" src="https://img.icons8.com/fluent/48/000000/twitter.png"/> </a>&nbsp;&nbsp;
-
 <a href="mailto:websterb17@gmail.com"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png?raw=true" alt=""></a>
+
+<a href="https://twitter.com/Websteravosa/"><img height="26" src="https://img.icons8.com/fluent/48/000000/twitter.png"/> </a>&nbsp;&nbsp;
 
 </p>

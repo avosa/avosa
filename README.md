@@ -1,5 +1,5 @@
 <h3 align='center' class="text-purple"><samp><strong>Webster Avosa.</strong></samp></h3>
-<p align='center'> <samp>Computer Scientist | Software Developer | Network Engineer.</samp></p>
+<p align='center'> <samp>Computer Scientist | Software/Web Developer | Network Engineer.</samp></p>
 <p align='center'> <samp>Data Scientist | ML enthusiast | Environmentalist.</samp></p>
 
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=avosa alt=avosa/>.</samp> </p>

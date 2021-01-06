@@ -8,7 +8,7 @@
  
 
 <p align='center'>
-<div>
+<div align='center'>
   want to get in touch?
  </div>
 <a href="https://www.linkedin.com/in/webster-avosa-6286a315b/"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;

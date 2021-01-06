@@ -1,7 +1,3 @@
-<h3 align='center' class="text-purple"><samp><strong>Webster Avosa.</strong></samp></h3>
-<p align='center'> <samp>Computer Scientist | Software Developer | Cloud Engineer | Network Engineer.</samp></p>
-<p align='center'> <samp>Environmentalist.</samp></p>
-
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=avosa alt=avosa/>.</samp> </p>
 
 <br><br>

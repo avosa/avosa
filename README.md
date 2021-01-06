@@ -9,8 +9,9 @@
 
 <p align='center'>
 <div align='center'>
-  want to get in touch?
+ <h1> Contact me </h1>
  </div>
+ <br>
  
  <div align='center'>
 <a href="https://www.linkedin.com/in/webster-avosa-6286a315b/"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;

@@ -11,8 +11,6 @@
 <div align='center'>
  <h1> Contact me </h1>
  </div>
- <br>
- 
  <div align='center'>
 <a href="https://www.linkedin.com/in/webster-avosa-6286a315b/"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:websterb17@gmail.com"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png?raw=true" alt=""></a>

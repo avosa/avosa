@@ -1,6 +1,6 @@
 <p align="center"><samp> <img src=https://komarev.com/ghpvc/?username=avosa alt=avosa/>.</samp> </p>
 
-<br><br>
+<br>
 
 <p align='center'>
  <a href="https://github.com/avosa"><img src="https://github-contribution-stats.vercel.app/api/?username=avosa" alt="Contribution Stats"></a>

@@ -4,7 +4,7 @@
 
 <p align='center'>
  <a href="https://github.com/avosa"><img src="https://github-contribution-stats.vercel.app/api/?username=avosa" alt="Contribution Stats"></a>
- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=avosa)](https://github.com/LordDashMe/github-contribution-stats/)
+ 
  </p>
  
 
